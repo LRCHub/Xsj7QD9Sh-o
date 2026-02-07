@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "熱中症",
+  "base_artist": "超☆社会的サンダル",
+  "createdAt": "2026-02-07T17:58:22.577205Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "熱中症",
+      "artist": "超☆社会的サンダル",
+      "has_synced": false,
+      "path": "select/pl_01_熱中症_超☆社会的サンダル.txt"
+    }
+  ]
+}
